@@ -1,4 +1,8 @@
-@import url(global.css);
-@import url(controls.css);
-@import url(header.css);
-@import url(products.css);
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-image: url(../img/baby-yoda.svg);
+}
+/* 
+.bg-body-tertiary {
+    background-color: red !important;
+} */
